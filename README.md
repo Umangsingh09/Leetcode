@@ -27,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Umangsingh09/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Umangsingh09/Leetcode/tree/master/0283-move-zeroes) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Umangsingh09/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
